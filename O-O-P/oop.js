@@ -133,4 +133,4 @@ console.log(dog);
 // OBJECT CREATE ПРИНИМАЕТ ЕЩЕ КАКИЕ ТО НАСТРОЙКИ.
 for(let key in dog){
     console.log(key);
-}
+};
